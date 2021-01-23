@@ -1,0 +1,139 @@
+.navbar{
+	background-color:#40639b!important;
+	
+}
+
+.navbar ul li a{
+	color: #ffe7d8!important;
+	margin-right:30px!important;
+}
+.navbar ul li a:hover{
+	background-color:#f7e743!important;
+	color: black!important;
+}
+
+.navbar h1{
+	  font-weight: bold;
+	  color: white;
+	  margin-left:90px;
+}
+.carousel-inner > .carousel-item  > img {
+  height:100vh!important;
+}
+.our-service{
+	text-align: center;
+	padding-top:90px;
+	padding-bottom: 30px; 
+}
+.our-service img{
+	height: 80px;
+	width: 80px;
+	margin-top: 20px;
+}
+
+.our-service h3{
+	color: #f7e743;
+}
+.our-service p{
+	color: #ffe7d8!important
+}
+.our-service .col-lg-3{
+	background-color:rgba(28,61,113,1);
+	border-right:1px solid gray;
+    border-radius: 0px 0px 50px 50px;
+    box-shadow: 0px 6px #f7e743;
+}
+.scrolling-box {
+  background-color:white;
+  display: block;
+  text-align: center;
+  width:100%;
+}
+#work-shop{
+	padding-top:100px;
+	padding-bottom:60px;
+	border-top: 1px dashed #f02b2b;
+}
+#work-shop p{
+	padding-top:40px;
+}
+#Support{
+	padding-top:100px;
+	padding-bottom:60px;
+	background-color:rgba(28,61,113,1);
+
+}
+#Support h1{
+	   color: white;
+}
+.container-image{
+  position: relative;
+  width: 115%;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 100%;
+  background-color: #f7e743!important;
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: .5s ease;
+}
+
+.container-image:hover .overlay {
+  width: 100%;
+  right: 0;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+}
+#Event{
+	padding-top:100px;
+	padding-bottom:60px;
+}
+#Event h1{
+	color:rgba(28,61,113,1);	
+}
+#Event p{
+	color:rgba(28,61,113,1);	
+}
+#team{
+	padding-top:100px;
+	padding-bottom:60px;
+}
+#team h1{
+	color:rgba(28,61,113,1);	
+}
+#team p{
+	color:rgba(28,61,113,1);	
+}
+.bg-warning{
+	background-color:#f7e743!important;
+}
+#contact{
+	padding-top:100px;
+	padding-bottom:80px;
+	background-color: rgba(28,61,113,1);
+	color: white;
+}
+.footer{
+	border-top:1px solid white;
+
+}
+.footer span{
+	position: relative;
+    top: 20px;
+
+}
